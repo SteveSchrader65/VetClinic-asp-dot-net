@@ -1,0 +1,8 @@
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (1, 'Boof', 'Rhodesian Ridgeback', 'Male', '2016-10-08')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (1, 'Sophie', 'Rhodesian Ridgeback', 'Female', '2016-10-08')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (2, 'Sempei', 'Rottweiler', 'Female', '2011-12-26')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (3, 'Tweety', 'Macaw', 'Male', '2019-11-11')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (4, 'Fluffy', 'Persian', 'Female', '2019-08-21')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (5, 'Demon', 'Carpet snake', 'Male', '2018-11-14')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (6, 'ScaryBird', 'Parrot', 'Female', '2016-02-17')
+INSERT [DrDoolittleVet].[dbo].[Pets] ([OwnerID], [PetName], [PetBreed], [PetGender], [PetBirthdate]) VALUES (3, 'Frank', 'Dachshund', 'Male', '2020-03-05')

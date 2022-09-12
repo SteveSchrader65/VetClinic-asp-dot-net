@@ -1,0 +1,8 @@
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Alprazolam', 'Downmike Pharmacia', 12.50, 19.95, 35)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Bupivacaine', 'Logos International', 2.55, 5.95, 25)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Telazol', 'Angel Biogenics', 1.58, 7.30, 25)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Ketamine', 'Logos International', 17.50, 25.85, 20)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Fipronil', 'Nufarm', 9.40, 18.50, 15)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Pergolide', 'Downmike Pharmacia', 7.50, 18.50, 25)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Rifampin', 'Synax Medical', 5.00, 9.85, 30)
+INSERT [DrDoolittleVet].[dbo].[Medications] ([DrugName], [DrugSupplier], [DrugCostPrice], [DrugSalePrice], [DrugQuantity]) VALUES ('Tramadol', 'Nufarm', 2.95, 5.50, 20)

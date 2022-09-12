@@ -1,0 +1,11 @@
+INSERT [DrDoolittleVet].[dbo].[Vets] ([Title], [FirstName], [LastName], [Address1], [Address2], [State], [PostCode], [PhoneNumber], [Qualification], [EmailAddress], [Password])
+VALUES ('Dr', 'Jonathon', 'Doolittle', '31 Brookside Lane', 'Armadale', 'WA', 6117, '042 326 6041', 'Doctor of Veterinary Medicine Murdoch 1997', 'drdoolittle@hotmail.com', 'incorrect')
+INSERT [DrDoolittleVet].[dbo].[Vets] ([Title], [FirstName], [LastName], [Address1], [Address2], [State], [PostCode], [PhoneNumber], [Qualification], [EmailAddress], [Password])
+VALUES ('Dr', 'Mary', 'Jane', '109 Farm Row', 'Gosnells', 'WA', 6112, '040 134 3165', 'Bachelor of Veterinary Surgery UWS 2010', 'mj@hotmail.com', 'incorrect')
+INSERT [DrDoolittleVet].[dbo].[Vets] ([Title], [FirstName], [LastName], [Address1], [Address2], [State], [PostCode], [PhoneNumber], [Qualification], [EmailAddress], [Password]) 
+VALUES ('Ms', 'Alice', 'Dee', '45 Drayden St', 'Whiteman', 'WA', 6034, '044 003 7109', 'Bachelor of Veterinary Sciences UCLA 2003', 'msadd@hotmail.com', 'incorrect')
+INSERT [DrDoolittleVet].[dbo].[Vets] ([Title], [FirstName], [LastName], [Address1], [Address2], [State], [PostCode], [PhoneNumber], [Qualification], [EmailAddress], [Password]) 
+VALUES ('Prof', 'Hugh', 'Jarsonim', '53 Harvester Blvd', 'Bullridge', 'WA', 6015, '041 796 0064', 'UWA BSc Veterinary Medicine 2012', 'drhenry@hotmail.com', 'incorrect')
+INSERT [DrDoolittleVet].[dbo].[Vets] ([Title], [FirstName], [LastName], [Address1], [Address2], [State], [PostCode], [PhoneNumber], [Qualification], [EmailAddress], [Password]) 
+VALUES ('Prof', 'Vanessa', 'Montressa', '42 Holland Blvd', 'Ashby', 'WA', 6026, '048 455 8901', 'Master of Feline Psychiatry Murdoch 2011', 'drhenry@hotmail.com', 'incorrect')
+

@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Frontend.master.cs" Inherits="MasterPages_Frontend" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Styles/Styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="PageWrapper">
+            <header><a href="/">Dr Doolittle's Veterinary Clinic</a>&nbsp;&nbsp;&nbsp;
+                <asp:Image ID="Image1" runat="server" Height="71px" src="/Images/pet.jpg" Width="131px" style="margin-top: 8px" />
+            </header>
+            <nav> Menu goes here</nav>
+            <section id="MainContent">
+                <asp:ContentPlaceHolder ID="cpMainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+            <aside id="Sidebar">Sidebar Goes Here</aside>
+            <footer>Footer Goes Here</footer>
+        </div>
+    </form>
+</body>
+</html>
